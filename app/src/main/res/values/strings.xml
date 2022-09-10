@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentAndroid3</string>
+    <string name="text">text</string>
+    <string name="gettext">getText</string>
+    <string name="Hello_world" />
+    <string name="btn_text">отправить текст</string>
+</resources>
